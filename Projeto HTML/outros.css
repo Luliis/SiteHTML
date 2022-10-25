@@ -1,0 +1,62 @@
+body
+{
+    font-family:cursive;
+    background-color: black;
+    background-image: url(Imagens/banana3.png), url(Imagens/banana5.png);
+    background-repeat: no-repeat repeat;
+    background-position: left, right;
+    background-size: 192px;
+    color: #8FBC8F;
+    text-align: center;
+    margin: 0px 200px;            
+}
+p{
+    border: 4px #39ff14 solid;
+    border-radius:57px;
+    padding: 24px;
+}
+
+div{
+    border: 4px #39ff14 solid;
+    border-radius:57px;
+    padding: 24px;
+}
+
+}
+nav{
+    
+    overflow: hidden;
+    clear: both;
+    margin-top: 10px;
+    }
+
+
+
+nav ul{
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 1px;
+    }
+
+
+
+
+
+nav ul li{
+    float: left;
+            }
+
+
+
+nav ul a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 8px 50px;
+    line-height: 2em;
+    }
+
+#lala{
+                margin-left: center;
+                margin-top: 100px;
+            }
